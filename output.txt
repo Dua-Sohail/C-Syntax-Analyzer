@@ -1,0 +1,10 @@
+SYMBOL TABLE
+----------------------------------------
+Lexeme	Type	Scope	Array Size
+main	Function	Global	
+age	Int	Global	
+grade	Char	Global	
+
+SYNTAX ERRORS
+----------------------------------------
+Syntax Error: Closing parenthesis expected at line 1
